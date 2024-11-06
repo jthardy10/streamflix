@@ -2,6 +2,8 @@
 
 A modern video streaming platform built with Next.js and TypeScript.
 
+Live Demo: [https://streamflix-eight.vercel.app](https://streamflix-eight.vercel.app)
+
 ## Features
 
 * User Authentication
@@ -46,3 +48,9 @@ Password: password123
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+
+## Deployment
+
+This project is automatically deployed to Vercel. Every push to main triggers a new deployment.
+
+Development: https://streamflix-eight.vercel.app
